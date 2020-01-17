@@ -30,4 +30,5 @@ Linear Regression: 385.0 ; Polynomial Regressor: 353.0 ; Ridge Regressor: 354.0 
 
 
 Summary
+
 Gradient Boosting is best model based on average MSE on cross-validation, which improves from 384 in the baseline model to 357 on the test data. Features importance tells that miles from major cities is very relevant feature in prediction. This model can provide the most accurate results in prediction when supplied with information on Experience (Years), Miles from Metropolis, Job Type, Degree and Major.
